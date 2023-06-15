@@ -26,16 +26,16 @@ To set up the project locally, please follow these steps:
 
 1. Clone this repository:
 ```sh
-(
+
     git clone https://github.com/your-username/fruit-vegetable-detection.git
-)
+
 ```
 
 2. Install the necessary dependencies:
 ```sh
-(
+
     pip install -r requirements.txt
-)
+
 ```
 
 3. Additional steps, such as setting up a specific environment or downloading pre-trained models, might be required. Please refer to the [documentation](#documentation) for detailed instructions.
