@@ -68,7 +68,7 @@ Please explore the [documentation](./documentation) folder for more information.
 
 The wireframes folder contains visual representations of the user interface and system flow. These wireframes provide a high-level overview of how the project's web or mobile application might look and function. They can serve as a reference for the frontend development process.
 
-Please explore the [wireframes](./wireframes) folder to view the visual representations.
+Please explore the [wireframes](./wireframes) folder to view the visual representations. {still to be implemented}
 
 ## Contributing
 
