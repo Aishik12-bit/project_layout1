@@ -1,0 +1,7 @@
+Progress until now:
+
+Discussed on ideas of implementation
+Started the implementation of ML models for classification
+Built an API for it
+Built a web interface for user friendly interaction
+Built a Minimum Viable Product surrounding the model
