@@ -40,7 +40,7 @@ To set up the project locally, please follow these steps:
 
 3. Additional steps, such as setting up a specific environment or downloading pre-trained models, might be required. Please refer to the [documentation](#documentation) for detailed instructions.
 
-## Usage
+## Usage (Under development)
 
 Once the project is set up, you can use it as follows:
 
